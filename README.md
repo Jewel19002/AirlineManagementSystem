@@ -45,25 +45,9 @@ AIRLINEMANAGEMENTSYSTEM/
    ```bash
    javac -d build/classes src/airlinemanagementsystem/*.java
 
-👨‍💻 Author
-Sk Mustak Ahammed
+# 👨‍💻 Author-
+# Sk Mustak Ahammed
 
 📜 License
 This project is intended for learning and demonstration purposes only.
 
-yaml
-Copy
-Edit
-
----
-
-Once saved, you can run the following Git commands to push to GitHub:
-
-### ✅ GitHub Push Commands
-```bash
-git init
-git add .
-git commit -m "Initial commit: Airline Management System"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
