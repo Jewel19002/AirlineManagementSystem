@@ -45,8 +45,8 @@ AIRLINEMANAGEMENTSYSTEM/
    ```bash
    javac -d build/classes src/airlinemanagementsystem/*.java
 
-# 👨‍💻 Author-
-# Sk Mustak Ahammed
+# 👨‍💻 Author- Sk Mustak Ahammed
+
 
 📜 License
 This project is intended for learning and demonstration purposes only.
